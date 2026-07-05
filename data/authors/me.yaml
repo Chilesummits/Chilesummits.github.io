@@ -43,31 +43,6 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4180-000X
 
-interests:
-  - Avian population dynamics & survival
-  - Shorebird & waterbird conservation
-  - Citizen-science data (eBird)
-  - Mark-recapture & integral projection models
-  - Bird banding & migration ecology
-
-education:
-  - degree: PhD in Zoology
-    institution: University of Oxford, Oxford, UK
-    start: 2014-01-01
-    end: 2018-12-31
-    summary: |
-      Thesis: "Influences of environmental change on the eco-evolutionary dynamics of an
-      insular bird *Zosterops lateralis*." Supervised by Dr Tim Coulson and Dr Sonya Clegg.
-      Fieldwork in Queensland, Australia.
-  - degree: Licenciado en Ciencias Biológicas (highest honors)
-    institution: Universidad Austral de Chile, Valdivia, Chile
-    start: 2009-01-01
-    end: 2013-12-31
-    summary: |
-      Thesis: "Are pine plantations a viable habitat for the endangered huemul deer
-      *Hippocamelus bisulcus* in Chilean Patagonia?" Supervised by Dr Paulo Corti.
-      Fieldwork in Coyhaique, Chile.
-
 experience:
   - role: Profesor Asociado
     org: Centro Bahía Lomas, Universidad Santo Tomás, Chile
@@ -139,14 +114,6 @@ skills:
         level: 4
       - label: Nest searching & morphological measurements
         level: 5
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 5
-    label: Native
 
 awards:
   - title: Research Grant

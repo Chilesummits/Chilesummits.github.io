@@ -26,8 +26,4 @@ sections:
     content:
       title: Becas y Premios
       username: me
-  - block: resume-languages
-    content:
-      title: Idiomas
-      username: me
 ---
