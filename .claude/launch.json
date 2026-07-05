@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "jekyll-serve",
-      "runtimeExecutable": "/opt/homebrew/opt/ruby@3.1/bin/bundle",
-      "runtimeArgs": ["exec", "jekyll", "serve", "-l", "-H", "localhost", "-P", "4000"],
-      "port": 4000
+      "name": "hugo-serve",
+      "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "--disableFastRender", "--port", "1313"],
+      "port": 1313
     }
   ]
 }

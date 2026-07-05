@@ -1,0 +1,68 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Erik Sandvig
+  given: Erik
+  family: Sandvig
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: ""
+role: Bird Conservation Analyst
+bio: |
+  Erik Sandvig is a bird conservation analyst working on the population status and
+  trends of Chilean and Neotropical birds. His work combines large citizen-science
+  datasets (eBird) with trait databases (AVONET) and mixed-effects modeling in R to
+  produce robust, reproducible estimates for conservation decision-making.
+
+affiliations: []
+
+links:
+  - icon: at-symbol
+    url: mailto:chilesummits@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Chilesummits
+
+interests:
+  - Bird population trends
+  - Shorebird conservation
+  - Citizen-science data (eBird)
+  - Mixed-effects modeling in R
+
+education:
+  - degree: "[Add your degree]"
+    institution: "[Add your institution]"
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: ''
+
+experience:
+  - role: "[Add your role]"
+    org: "[Add your organization]"
+    start: 2020-01-01
+    summary: |
+      [Describe your duties]
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: R (glmmTMB, mixed-effects modeling)
+        level: 5
+      - label: Population trend estimation (eBird Status & Trends)
+        level: 5
+      - label: Species trait databases (AVONET)
+        level: 4
+
+languages:
+  - name: Spanish
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+
+awards: []
