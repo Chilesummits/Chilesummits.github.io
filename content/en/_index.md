@@ -6,6 +6,22 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: ''
+      text: ''
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
+      css_style: 'min-height: 42vh;'
+      background:
+        image:
+          filename: 'authors/banner-bahia-lomas.jpg'
+          size: cover
+          position: center
+          filters:
+            brightness: 0.85
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -24,10 +40,6 @@ sections:
       background:
         gradient_mesh:
           enable: true
-
-      # Banner image shown above the avatar
-      banner:
-        filename: 'authors/banner-bahia-lomas.jpg'
 
       # Name heading sizing to accommodate long or short names
       name:
