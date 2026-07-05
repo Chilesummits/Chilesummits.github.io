@@ -2,12 +2,12 @@
 title: "Andean Goose (Oressochen melanopterus), version 2.0"
 authors:
 - me
-- Antonia Cabrera Foix
-- Nicolás Contardo
-- Paula Galdames
-- Carlos Pinto
-- Ashley Duvall
-- Fernando Medrano
+- A. Cabrera Foix
+- N. Contardo
+- P. Galdames
+- C. Pinto
+- A. Duvall
+- F. Medrano
 date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["chapter"]
@@ -25,7 +25,9 @@ tags:
 - Species account
 - Oressochen melanopterus
 featured: false
-links: []
+links:
+  - type: doi
+    url: "https://doi.org/10.2173/bow.andgoo1.02"
 projects: []
 slides: ""
 ---

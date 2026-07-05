@@ -42,7 +42,7 @@ sections:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: true
+          enable: false
 
       spacing:
         padding: ['1rem', '0', '2rem', '0']
@@ -53,7 +53,7 @@ sections:
 
       # Avatar customization
       avatar:
-        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
@@ -70,17 +70,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publicaciones Destacadas
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Publicaciones Recientes
+      title: Publicaciones
       text: ''
       filters:
         folders:

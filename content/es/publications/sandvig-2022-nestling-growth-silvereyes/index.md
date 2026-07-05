@@ -1,11 +1,11 @@
 ---
-title: "Nestling growth and provisioning in an insular population of Silvereyes Zosterops lateralis chlorocephalus"
+title: "Insular nestling growth and its relationship to parental care effort in Silvereyes, Zosterops lateralis"
 authors:
 - me
-- Tim Coulson
-- Bruce Robertson
-- William Feeney
-- Sonya M. Clegg
+- T. Coulson
+- B. Robertson
+- W. Feeney
+- S. M. Clegg
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -22,7 +22,11 @@ tags:
 - Zosterops lateralis
 - Provisioning
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1080/01584197.2022.2105723"
 projects: []
 slides: ""
 ---

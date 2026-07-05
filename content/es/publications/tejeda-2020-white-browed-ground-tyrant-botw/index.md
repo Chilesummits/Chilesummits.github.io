@@ -1,10 +1,10 @@
 ---
 title: "White-browed Ground-Tyrant (Muscisaxicola albilora), version 2.0"
 authors:
-- Iván Tejeda
-- Tomás Altamirano
+- I. Tejeda
+- T. Altamirano
 - me
-- Andrew J. Spencer
+- A. J. Spencer
 date: "2020-01-01T00:00:00Z"
 publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["chapter"]
@@ -22,7 +22,9 @@ tags:
 - Species account
 - Muscisaxicola albilora
 featured: false
-links: []
+links:
+  - type: doi
+    url: "https://doi.org/10.2173/bow.wbgtyr1.02"
 projects: []
 slides: ""
 ---

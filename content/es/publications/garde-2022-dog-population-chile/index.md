@@ -1,9 +1,9 @@
 ---
 title: "A Review and Analysis of the National Dog Population Management Program in Chile"
 authors:
-- Enrique Garde
-- Paula Marín-Vial
-- Gerardo E. Pérez
+- E. Garde
+- P. Marín-Vial
+- G. E. Pérez
 - me
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
@@ -25,7 +25,9 @@ tags:
 featured: false
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.3390/ani12030228"
 projects: []
 slides: ""
 ---

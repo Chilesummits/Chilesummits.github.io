@@ -2,8 +2,8 @@
 title: "The effect of insularity on avian growth rates and implications for insular body size evolution"
 authors:
 - me
-- Tim Coulson
-- Sonya M. Clegg
+- T. Coulson
+- S. M. Clegg
 date: "2019-04-01T00:00:00Z"
 publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -26,7 +26,9 @@ tags:
 featured: true
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1098/rspb.2018.1967"
 projects: []
 slides: ""
 ---

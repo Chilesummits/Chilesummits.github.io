@@ -1,16 +1,16 @@
 ---
-title: "Survival in the world's southernmost forest bird community"
+title: "Survival rates in the world's southernmost forest bird community"
 authors:
 - me
-- Tomás Altamirano
-- Claudio Quilodrán
-- Fernanda Aguirre
-- Juan Rivero de Aguilar
-- Omar Barroso
-- Rodrigo A. Vásquez
-- Ricardo Rozzi
-- Michael Schaub
-- Marc Kéry
+- T. Altamirano
+- C. Quilodrán
+- F. Aguirre
+- J. Rivero de Aguilar
+- O. Barroso
+- R. A. Vásquez
+- R. Rozzi
+- M. Schaub
+- M. Kéry
 date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -31,7 +31,9 @@ tags:
 featured: true
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1002/ece3.10143"
 projects: []
 slides: ""
 ---

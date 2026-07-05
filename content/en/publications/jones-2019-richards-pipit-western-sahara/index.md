@@ -1,8 +1,8 @@
 ---
 title: "Richard's Pipits Anthus richardi at Dakhla, Western Sahara, with a brief review of regional status and trans-Saharan migration"
 authors:
-- Simon E. Jones
-- Luke J. Dorward
+- S. E. Jones
+- L. J. Dorward
 - me
 date: "2019-01-01T00:00:00Z"
 publishDate: "2019-01-01T00:00:00Z"
@@ -21,7 +21,9 @@ tags:
 - Anthus richardi
 - Western Sahara
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
 projects: []
 slides: ""
 ---

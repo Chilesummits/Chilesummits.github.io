@@ -2,9 +2,9 @@
 title: "The influence of climatic variation and density on the survival of an insular passerine Zosterops lateralis"
 authors:
 - me
-- Tim Coulson
-- Jiro Kikkawa
-- Sonya M. Clegg
+- T. Coulson
+- J. Kikkawa
+- S. M. Clegg
 date: "2017-04-01T00:00:00Z"
 publishDate: "2017-04-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -26,7 +26,9 @@ tags:
 featured: false
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1371/journal.pone.0176360"
 projects: []
 slides: ""
 ---

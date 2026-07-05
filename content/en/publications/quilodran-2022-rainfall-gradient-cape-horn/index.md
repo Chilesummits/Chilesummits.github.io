@@ -1,13 +1,13 @@
 ---
 title: "The extreme rainfall gradient of the Cape Horn Biosphere Reserve and its impact on forest bird richness"
 authors:
-- Claudio S. Quilodrán
+- C. S. Quilodrán
 - me
-- Fernanda Aguirre
-- Juan Rivero de Aguilar
-- Omar Barroso
-- Rodrigo A. Vásquez
-- Ricardo Rozzi
+- F. Aguirre
+- J. Rivero de Aguilar
+- O. Barroso
+- R. A. Vásquez
+- R. Rozzi
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -26,7 +26,9 @@ tags:
 featured: false
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1007/s10531-022-02353-5"
 projects: []
 slides: ""
 ---

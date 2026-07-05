@@ -2,7 +2,7 @@
 title: "Notes on the diet of the Straight-billed Earthcreeper (Ochetorhynchus ruficaudus) and the use of citizen science image repositories"
 authors:
 - me
-- Pablo Cerpa
+- P. Cerpa
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -20,7 +20,11 @@ tags:
 - Citizen science
 - Ochetorhynchus ruficaudus
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.58843/ornneo.vi.805"
 projects: []
 slides: ""
 ---

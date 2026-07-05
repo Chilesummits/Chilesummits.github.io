@@ -1,41 +1,41 @@
 ---
 title: "Aprendizajes colectivos y desafíos de los primeros quince años de eBird en Chile"
 authors:
-- Fernando Medrano
-- Valentina Pantoja
-- Iván Tejeda
-- Ronny Barros
-- Nicolás González
-- Nicolás Arcaya
-- Alejandra Cabrera
-- Erwin Basso
-- Pablo Cáceres
-- Paulina Cárcamo
-- Nicolás Contardo
-- Diego Díaz
-- Fernando Díaz
-- Erik French
-- Marcelo Garrido
-- Manuel A. González
-- Gabriel Gutiérrez
-- David Imbernón
-- Santiago Imberti
-- Alvaro Jaramillo
-- Diego Martínez-Piña
-- Ricardo Matus
-- Cristián Moreno
-- Nicolás Navarrete
-- Heraldo Norambuena
-- Fernando Olivares
-- Ricardo Peredo
-- Carlos Pinto
-- Camila Pizarro
-- Verónica Raimilla
+- F. Medrano
+- V. Pantoja
+- I. Tejeda
+- R. Barros
+- N. González
+- N. Arcaya
+- A. Cabrera
+- E. Basso
+- P. Cáceres
+- P. Cárcamo
+- N. Contardo
+- D. Díaz
+- F. Díaz
+- E. French
+- M. Garrido
+- M. A. González
+- G. Gutiérrez
+- D. Imbernón
+- S. Imberti
+- A. Jaramillo
+- D. Martínez-Piña
+- R. Matus
+- C. Moreno
+- N. Navarrete
+- H. Norambuena
+- F. Olivares
+- R. Peredo
+- C. Pinto
+- C. Pizarro
+- V. Raimilla
 - me
-- Fabrice Schmitt
-- Rodrigo Tapia
-- Jorge Tomasevic
-- Hugo Torres
+- F. Schmitt
+- R. Tapia
+- J. Tomasevic
+- H. Torres
 date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -52,7 +52,9 @@ tags:
 - eBird
 - Citizen science
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
 projects: []
 slides: ""
 ---

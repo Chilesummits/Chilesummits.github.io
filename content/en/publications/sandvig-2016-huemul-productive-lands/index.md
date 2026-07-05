@@ -2,9 +2,9 @@
 title: "Assessing productive lands as viable habitat for huemul in Patagonia"
 authors:
 - me
-- Mariano Espinaze
-- Paula Marín-Vial
-- Paulo Corti
+- M. Espinaze
+- P. Marín-Vial
+- P. Corti
 date: "2016-01-01T00:00:00Z"
 publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -24,7 +24,9 @@ tags:
 featured: false
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1002/jwmg.1038"
 projects: []
 slides: ""
 ---

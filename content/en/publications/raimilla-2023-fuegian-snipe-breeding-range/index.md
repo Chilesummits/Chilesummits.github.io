@@ -1,13 +1,13 @@
 ---
 title: "What is the northernmost breeding range of Fuegian Snipe Gallinago stricklandii?"
 authors:
-- Verónica Raimilla
-- Fernando Díaz
-- Ronny Barros
-- Heraldo V. Norambuena
-- Gabriel Contreras
-- Sebastián Carrasco
-- Diego Torres
+- V. Raimilla
+- F. Díaz
+- R. Barros
+- H. V. Norambuena
+- G. Contreras
+- S. Carrasco
+- D. Torres
 - me
 date: "2023-09-01T00:00:00Z"
 publishDate: "2023-09-01T00:00:00Z"
@@ -26,7 +26,11 @@ tags:
 - Gallinago stricklandii
 - Range extension
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.25226/bboc.v143i3.2023.a4"
 projects: []
 slides: ""
 ---

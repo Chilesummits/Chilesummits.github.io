@@ -1,18 +1,18 @@
 ---
 title: "Migration in Rufous-Collared Sparrows (Zonotrichia capensis) from the Southernmost Tip of America"
 authors:
-- Simeon Lisovski
-- John Wingfield
-- Marilyn Ramenofsky
-- Omar Barroso
-- Rafael Rivero de Aguilar
-- Carlos E. Valeris-Chacín
-- Ramiro Jara
-- Fernanda Aguirre
-- Claudio S. Quilodrán
-- Ricardo Rozzi
+- S. Lisovski
+- J. Wingfield
+- M. Ramenofsky
+- O. Barroso
+- R. Rivero de Aguilar
+- C. E. Valeris-Chacín
+- R. Jara
+- F. Aguirre
+- C. S. Quilodrán
+- R. Rozzi
 - me
-- Rodrigo A. Vásquez
+- R. A. Vásquez
 date: "2025-05-01T00:00:00Z"
 publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -32,7 +32,9 @@ tags:
 featured: false
 links:
   - type: pdf
-    url: "https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es"
+    url: "paper.pdf"
+  - type: doi
+    url: "https://doi.org/10.1111/aec.70041"
 projects: []
 slides: ""
 ---

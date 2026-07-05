@@ -1,9 +1,9 @@
 ---
 title: "Surveys along the Mekong River (Kratie Province, Cambodia) reveal a decade of declines in globally and regionally threatened bird species"
 authors:
-- Jessica Mittermeier
+- J. Mittermeier
 - me
-- Marc Jocque
+- M. Jocque
 date: "2019-01-01T00:00:00Z"
 publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["article-journal"]
@@ -20,7 +20,9 @@ tags:
 - Mekong River
 - Threatened species
 featured: false
-links: []
+links:
+  - type: pdf
+    url: "paper.pdf"
 projects: []
 slides: ""
 ---
