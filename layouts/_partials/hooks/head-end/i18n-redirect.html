@@ -1,0 +1,32 @@
+<script>
+(function () {
+  try {
+    var STORAGE_KEY = 'preferredLang';
+    var currentLang = '{{ .Site.Language.Lang }}';
+    var saved = null;
+    try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+
+    // Only decide once per visitor. After the first visit, never auto-redirect
+    // again so manual language switching is always respected.
+    if (saved) { return; }
+
+    if (currentLang !== 'en') {
+      try { localStorage.setItem(STORAGE_KEY, currentLang); } catch (e) {}
+      return;
+    }
+
+    var browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || ''];
+    var wantsSpanish = false;
+    for (var i = 0; i < browserLangs.length; i++) {
+      if (/^es\b/i.test(browserLangs[i])) { wantsSpanish = true; break; }
+    }
+
+    if (wantsSpanish) {
+      try { localStorage.setItem(STORAGE_KEY, 'es'); } catch (e) {}
+      window.location.replace('/es' + window.location.pathname + window.location.search);
+    } else {
+      try { localStorage.setItem(STORAGE_KEY, 'en'); } catch (e) {}
+    }
+  } catch (e) {}
+})();
+</script>

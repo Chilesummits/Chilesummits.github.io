@@ -1,0 +1,185 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Erik Sandvig
+  given: Erik
+  family: Sandvig
+  alternate: 'Erik M. Sandvig Coleman'
+  pronunciation: ''
+  pronouns: ''
+postnominals:
+  - PhD
+status:
+  icon: ""
+role: Analista de Conservación de Aves
+bio: |
+  Erik Sandvig es un analista de conservación e investigador de aves, dedicado a la
+  dinámica poblacional, la supervivencia y el estado de conservación de las aves de Chile
+  y el Neotrópico. Es Doctor en Zoología por la Universidad de Oxford y desde entonces ha
+  trabajado en estudios demográficos de largo plazo de aves de bosque en la Reserva de la
+  Biosfera Cabo de Hornos, modelamiento de supervivencia con el Instituto Ornitológico
+  Suizo, y monitoreo de aves playeras y acuáticas en todo Chile con la Red de
+  Observadores de Aves y Vida Silvestre de Chile (ROC). Su trabajo combina grandes bases
+  de datos de ciencia ciudadana (eBird) con modelos de marca-recaptura, modelos mixtos y
+  modelos de proyección integral en R para producir estimaciones robustas y reproducibles
+  para la toma de decisiones de conservación.
+
+affiliations:
+  - name: Centro Bahía Lomas, Universidad Santo Tomás
+    url: ''
+  - name: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
+    url: ''
+
+links:
+  - icon: at-symbol
+    url: mailto:chilesummits@gmail.com
+    label: Escríbeme
+  - icon: brands/github
+    url: https://github.com/Chilesummits
+  - icon: academicons/google-scholar
+    url: https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Erik-Sandvig
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4180-000X
+
+interests:
+  - Dinámica poblacional y supervivencia de aves
+  - Conservación de aves playeras y acuáticas
+  - Datos de ciencia ciudadana (eBird)
+  - Modelos de marca-recaptura y proyección integral
+  - Anillamiento y ecología migratoria
+
+education:
+  - degree: Doctorado en Zoología
+    institution: University of Oxford, Oxford, Reino Unido
+    start: 2014-01-01
+    end: 2018-12-31
+    summary: |
+      Tesis: "Influences of environmental change on the eco-evolutionary dynamics of an
+      insular bird *Zosterops lateralis*." Supervisada por Dr Tim Coulson y Dr Sonya
+      Clegg. Trabajo de campo en Queensland, Australia.
+  - degree: Licenciado en Ciencias Biológicas (distinción máxima)
+    institution: Universidad Austral de Chile, Valdivia, Chile
+    start: 2009-01-01
+    end: 2013-12-31
+    summary: |
+      Tesis: "Plantaciones forestales como hábitat viable para el Huemul
+      *Hippocamelus bisulcus* en la Región de Aysén." Supervisada por Dr Paulo Corti.
+      Trabajo de campo en Coyhaique, Chile.
+
+experience:
+  - role: Profesor Asociado
+    org: Centro Bahía Lomas, Universidad Santo Tomás, Chile
+    start: 2023-01-01
+    summary: |
+      Investigación en dinámicas poblacionales y ecología espacial de aves en
+      Magallanes. Docente del programa de Doctorado en Conservación y Gestión de la
+      Biodiversidad, con guiado de tesistas y docencia en asignaturas del doctorado.
+  - role: Coordinador del Programa de Monitoreo de Aves
+    org: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
+    start: 2019-01-01
+    summary: |
+      Diseño del Plan General de Monitoreo de Aves de Chile (licitado por el Ministerio
+      del Medio Ambiente) y liderazgo del monitoreo de largo plazo de aves acuáticas en
+      la Laguna Batuco, censos de Piuquenes en Lampa-Quilicura y monitoreo del Pilpilén
+      común en la desembocadura del río Maipo. Lidera los esfuerzos de anillamiento de
+      la ROC y participa como revisor de datos de eBird a nivel nacional.
+  - role: Investigador Postdoctoral
+    org: Centro Internacional Cabo de Hornos (CHIC), Chile — laboratorio de Dr. Rodrigo Vásquez
+    start: 2022-01-01
+    end: 2022-12-31
+    summary: |
+      Dinámicas poblacionales y ecología de aves de bosques de la Patagonia utilizando
+      la base de datos de marca-recaptura del Parque Etnobotánico Omora, Isla Navarino.
+  - role: Becario Postdoctoral
+    org: Swiss Ornithological Institute — Vogelwarte
+    start: 2021-01-01
+    end: 2022-06-30
+    summary: |
+      Beca de 6 meses con Marc Kéry y Michael Schaub. Especialización en métodos
+      Bayesianos para estimar tasas de supervivencia a nivel específico y comunitario, y
+      desarrollo de modelos Dail-Madsen para estimar la abundancia temporal del Canquén
+      Colorado usando censos anuales de dos décadas en Magallanes.
+  - role: Investigador Postdoctoral
+    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — laboratorio de Dr. Rodrigo Vásquez
+    start: 2020-01-01
+    end: 2022-12-31
+    summary: |
+      Investigación de la variación temporal en parámetros demográficos y fenológicos de
+      aves de bosque usando una base de datos de anillamiento de 20 años del Parque
+      Etnobotánico Omora, Isla Navarino.
+  - role: Investigador Doctoral
+    org: Departamento de Zoología, University of Oxford
+    start: 2014-01-01
+    end: 2018-12-31
+    summary: |
+      Análisis de supervivencia con marca-recaptura, meta-análisis filogenético del
+      efecto insular sobre el crecimiento de aves, monitoreo de nidos y modelamiento de
+      proyección integral de una población insular de aves (*Zosterops lateralis*) en
+      Queensland, Australia.
+
+skills:
+  - name: Habilidades de Investigación
+    items:
+      - label: R (más de 10 años; modelamiento demográfico e historia de vida)
+        level: 5
+      - label: Modelos poblacionales y de proyección integral
+        level: 5
+      - label: Análisis de supervivencia con marca-recaptura
+        level: 5
+      - label: Modelos de ocupación y meta-análisis filogenético
+        level: 4
+      - label: Identificación, captura y anillamiento de aves (17+ años, 1000+ aves anilladas)
+        level: 5
+  - name: Trabajo de Campo
+    items:
+      - label: Censos estandarizados de avifauna
+        level: 5
+      - label: Instalación de dispositivos de seguimiento satelital
+        level: 4
+      - label: Búsqueda de nidos y mediciones morfológicas
+        level: 5
+
+languages:
+  - name: Inglés
+    level: 5
+    label: Nativo
+  - name: Español
+    level: 5
+    label: Nativo
+
+awards:
+  - title: Beca de Investigación
+    awarder: The Waterbird Society
+    date: "2026-01-01"
+    summary: "US$5.000 para un estudio de ecología de movimiento del Canquén (*Oressochen melanopterus*) con GPS."
+  - title: Beca de Equipamiento
+    awarder: IdeaWild
+    date: "2025-01-01"
+    summary: "US$750 para equipamiento de monitoreo acústico de la especie *Porzana jamaicensis*."
+  - title: Subvención a la Instalación en la Academia (SIA)
+    awarder: ANID
+    date: "2023-01-01"
+    summary: "Financiamiento por tres años como investigador de inserción en el Centro Bahía Lomas, Universidad Santo Tomás."
+  - title: Beca de Investigación
+    awarder: The Nyika Vwaza Trust, Malawi
+    date: "2022-01-01"
+    summary: "£5.000 para un proyecto de investigación y monitoreo de Denham's Bustard."
+  - title: Beca Pequeña de Investigación
+    awarder: Wader Quest
+    date: "2022-01-01"
+    summary: "£1.000 para un proyecto de investigación sobre la becasina de Magallanes (Fuegian Snipe)."
+  - title: Beca Schifferli
+    awarder: Swiss Ornithological Institute
+    date: "2021-01-01"
+    summary: "CHF 1.800 para una estadía de investigación de 6 meses en el instituto."
+  - title: Beca de Viaje
+    awarder: St Peter's College, Oxford
+    date: "2015-01-01"
+    summary: "£800 para pasajes y trabajo de campo en Australia."
+  - title: Beca Doctoral BecasChile
+    awarder: CONICYT, Programa de Capital Humano Avanzado
+    date: "2014-01-01"
+    summary: "Beca completa para estudios de doctorado en el extranjero."

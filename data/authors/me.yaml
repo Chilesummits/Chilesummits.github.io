@@ -5,20 +5,30 @@ name:
   display: Erik Sandvig
   given: Erik
   family: Sandvig
-  alternate: ''
+  alternate: 'Erik M. Sandvig Coleman'
   pronunciation: ''
   pronouns: ''
-postnominals: []
+postnominals:
+  - PhD
 status:
   icon: ""
 role: Bird Conservation Analyst
 bio: |
-  Erik Sandvig is a bird conservation analyst working on the population status and
-  trends of Chilean and Neotropical birds. His work combines large citizen-science
-  datasets (eBird) with trait databases (AVONET) and mixed-effects modeling in R to
-  produce robust, reproducible estimates for conservation decision-making.
+  Erik Sandvig is a bird conservation analyst and researcher working on the population
+  dynamics, survival, and conservation status of birds in Chile and the wider Neotropics.
+  He holds a PhD in Zoology from the University of Oxford and has since worked on
+  long-term demographic studies of forest birds in the Cape Horn Biosphere Reserve,
+  survival modeling with the Swiss Ornithological Institute, and shorebird and waterbird
+  monitoring across Chile with the Red de Observadores de Aves y Vida Silvestre de Chile
+  (ROC). His work combines large citizen-science datasets (eBird) with mark-recapture,
+  mixed-effects, and integral projection models in R to produce robust, reproducible
+  estimates for conservation decision-making.
 
-affiliations: []
+affiliations:
+  - name: Centro Bahía Lomas, Universidad Santo Tomás
+    url: ''
+  - name: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
+    url: ''
 
 links:
   - icon: at-symbol
@@ -26,43 +36,148 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Chilesummits
+  - icon: academicons/google-scholar
+    url: https://scholar.google.cl/citations?user=Gh_OGFAAAAAJ&hl=es
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Erik-Sandvig
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4180-000X
 
 interests:
-  - Bird population trends
-  - Shorebird conservation
+  - Avian population dynamics & survival
+  - Shorebird & waterbird conservation
   - Citizen-science data (eBird)
-  - Mixed-effects modeling in R
+  - Mark-recapture & integral projection models
+  - Bird banding & migration ecology
 
 education:
-  - degree: "[Add your degree]"
-    institution: "[Add your institution]"
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: ''
+  - degree: PhD in Zoology
+    institution: University of Oxford, Oxford, UK
+    start: 2014-01-01
+    end: 2018-12-31
+    summary: |
+      Thesis: "Influences of environmental change on the eco-evolutionary dynamics of an
+      insular bird *Zosterops lateralis*." Supervised by Dr Tim Coulson and Dr Sonya Clegg.
+      Fieldwork in Queensland, Australia.
+  - degree: Licenciado en Ciencias Biológicas (highest honors)
+    institution: Universidad Austral de Chile, Valdivia, Chile
+    start: 2009-01-01
+    end: 2013-12-31
+    summary: |
+      Thesis: "Are pine plantations a viable habitat for the endangered huemul deer
+      *Hippocamelus bisulcus* in Chilean Patagonia?" Supervised by Dr Paulo Corti.
+      Fieldwork in Coyhaique, Chile.
 
 experience:
-  - role: "[Add your role]"
-    org: "[Add your organization]"
-    start: 2020-01-01
+  - role: Profesor Asociado
+    org: Centro Bahía Lomas, Universidad Santo Tomás, Chile
+    start: 2023-01-01
     summary: |
-      [Describe your duties]
+      Research on population dynamics and spatial ecology of birds in Magallanes.
+      Faculty member of the Doctorado en Conservación y Gestión de la Biodiversidad,
+      supervising thesis students and teaching doctoral courses.
+  - role: Coordinador del Programa de Monitoreo de Aves
+    org: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
+    start: 2019-01-01
+    summary: |
+      Designed Chile's national bird monitoring plan (commissioned by the Ministry of
+      the Environment) and led long-term waterbird monitoring at Laguna Batuco, Andean
+      Goose censuses in Lampa-Quilicura, and American Oystercatcher monitoring at the
+      Maipo river mouth. Leads ROC's bird banding efforts and reviews eBird records
+      nationally.
+  - role: Postdoctoral Researcher
+    org: Centro Internacional Cabo de Hornos (CHIC), Chile — Dr. Rodrigo Vásquez lab
+    start: 2022-01-01
+    end: 2022-12-31
+    summary: |
+      Population dynamics and ecology of Patagonian forest birds using the
+      Omora Ethnobotanical Park mark-recapture database, Navarino Island.
+  - role: Postdoctoral Fellow
+    org: Swiss Ornithological Institute — Vogelwarte
+    start: 2021-01-01
+    end: 2022-06-30
+    summary: |
+      6-month fellowship with Marc Kéry and Michael Schaub. Specialized in Bayesian
+      methods for species- and community-level survival estimation, and developed
+      Dail-Madsen models to estimate temporal abundance of the Ruddy-headed Goose
+      from two decades of annual censuses in Magallanes.
+  - role: Postdoctoral Researcher
+    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — Dr. Rodrigo Vásquez lab
+    start: 2020-01-01
+    end: 2022-12-31
+    summary: |
+      Investigated temporal variation in demographic and phenological parameters of
+      forest birds using a 20-year banding dataset from the Omora Ethnobotanical Park,
+      Navarino Island.
+  - role: PhD Researcher
+    org: Department of Zoology, University of Oxford
+    start: 2014-01-01
+    end: 2018-12-31
+    summary: |
+      Mark-recapture survival analysis, phylogenetic meta-analysis of insularity effects
+      on avian growth, nest monitoring, and integral projection modeling of an insular
+      bird population (*Zosterops lateralis*) in Queensland, Australia.
 
 skills:
-  - name: Technical Skills
+  - name: Research Skills
     items:
-      - label: R (glmmTMB, mixed-effects modeling)
+      - label: R (10+ years; demographic & life-history modeling)
         level: 5
-      - label: Population trend estimation (eBird Status & Trends)
+      - label: Population & integral projection models
         level: 5
-      - label: Species trait databases (AVONET)
+      - label: Mark-recapture survival analysis
+        level: 5
+      - label: Occupancy models & phylogenetic meta-analysis
         level: 4
+      - label: Bird identification, capture & banding (17+ years, 1000+ birds banded)
+        level: 5
+  - name: Fieldwork
+    items:
+      - label: Standardized avifauna censuses
+        level: 5
+      - label: Satellite tracking deployment
+        level: 4
+      - label: Nest searching & morphological measurements
+        level: 5
 
 languages:
+  - name: English
+    level: 5
+    label: Native
   - name: Spanish
     level: 5
     label: Native
-  - name: English
-    level: 4
-    label: Fluent
 
-awards: []
+awards:
+  - title: Research Grant
+    awarder: The Waterbird Society
+    date: "2026-01-01"
+    summary: "US$5,000 for a GPS movement ecology study of the Andean Goose (*Oressochen melanopterus*)."
+  - title: Equipment Grant
+    awarder: IdeaWild
+    date: "2025-01-01"
+    summary: "US$750 for acoustic monitoring equipment for the Black Rail (*Porzana jamaicensis*)."
+  - title: Subvención a la Instalación en la Academia (SIA)
+    awarder: ANID
+    date: "2023-01-01"
+    summary: "Three-year research funding as an incoming researcher at Centro Bahía Lomas, Universidad Santo Tomás."
+  - title: Research Grant
+    awarder: The Nyika Vwaza Trust, Malawi
+    date: "2022-01-01"
+    summary: "£5,000 for a research and monitoring project on Denham's Bustard."
+  - title: Small Research Grant
+    awarder: Wader Quest
+    date: "2022-01-01"
+    summary: "£1,000 for a research project on the Fuegian Snipe."
+  - title: Schifferli Scholarship
+    awarder: Swiss Ornithological Institute
+    date: "2021-01-01"
+    summary: "CHF 1,800 supporting a 6-month research stay at the institute."
+  - title: Travel Grant
+    awarder: St Peter's College, Oxford
+    date: "2015-01-01"
+    summary: "£800 for travel and fieldwork in Australia."
+  - title: BecasChile Doctoral Scholarship
+    awarder: CONICYT, Programa de Capital Humano Avanzado
+    date: "2014-01-01"
+    summary: "Full scholarship for doctoral studies abroad."
