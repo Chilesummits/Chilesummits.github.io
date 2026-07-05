@@ -1,0 +1,17 @@
+<style>
+  /* Hide the icon bubble next to the Bio heading on the homepage */
+  .flex.items-center.gap-4.mb-8 > div:first-child {
+    display: none;
+  }
+
+  /* Keep the enlarged avatar from overflowing its column on narrower viewports */
+  .avatar-wrapper {
+    width: min(400px, 100%) !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1;
+  }
+  .avatar-wrapper .avatar {
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>

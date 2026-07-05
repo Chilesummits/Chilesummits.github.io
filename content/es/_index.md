@@ -22,6 +22,9 @@ sections:
           position: center
           filters:
             brightness: 0.85
+      section_break:
+        fade_bottom: '#ffffff'
+        size: '16rem'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -41,17 +44,20 @@ sections:
         gradient_mesh:
           enable: true
 
+      spacing:
+        padding: ['1rem', '0', '2rem', '0']
+
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 Proyectos Actuales'
+      title: 'Proyectos Actuales'
       subtitle: ''
       text: |-
         **Estado de las Aves de Chile** — un informe nacional sobre el estado de las aves, construido a partir de datos de eBird Status & Trends y de rasgos de AVONET, que resume las tendencias poblacionales y el estado de conservación de la avifauna chilena.
@@ -59,6 +65,8 @@ sections:
         **Aves Playeras CCAP Chile** — estimaciones poblacionales de aves playeras chilenas en colaboración con Manomet, replicando y extendiendo la metodología previa (Faria et al.) con modelos mejorados basados en glmmTMB.
     design:
       columns: '1'
+      spacing:
+        padding: ['1rem', '0', '2rem', '0']
   - block: collection
     id: papers
     content:

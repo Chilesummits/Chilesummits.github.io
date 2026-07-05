@@ -22,6 +22,9 @@ sections:
           position: center
           filters:
             brightness: 0.85
+      section_break:
+        fade_bottom: '#ffffff'
+        size: '16rem'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -41,17 +44,20 @@ sections:
         gradient_mesh:
           enable: true
 
+      spacing:
+        padding: ['1rem', '0', '2rem', '0']
+
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 Current Projects'
+      title: 'Current Projects'
       subtitle: ''
       text: |-
         **State of Chile's Birds** — a national state-of-the-birds report built from eBird Status & Trends data and AVONET trait data, summarizing population trends and conservation status across Chilean avifauna.
@@ -59,6 +65,8 @@ sections:
         **CCAP Chile Shorebirds** — population estimates for Chilean shorebirds in collaboration with Manomet, replicating and extending prior (Faria et al.) methodology with improved glmmTMB-based models.
     design:
       columns: '1'
+      spacing:
+        padding: ['1rem', '0', '2rem', '0']
   - block: collection
     id: papers
     content:
