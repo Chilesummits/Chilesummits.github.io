@@ -25,6 +25,10 @@ sections:
         gradient_mesh:
           enable: true
 
+      # Banner image shown above the avatar
+      banner:
+        filename: 'authors/banner-bahia-lomas.jpg'
+
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
