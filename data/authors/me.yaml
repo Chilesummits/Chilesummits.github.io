@@ -12,15 +12,15 @@ postnominals:
   - PhD
 status:
   icon: ""
-role: Bird Conservation Analyst
+role: Quantitative Ecologist
 bio: |
-  Erik Sandvig is a bird conservation analyst and researcher working on the population
-  dynamics, survival, and conservation status of birds in Chile and the wider Neotropics.
-  He holds a PhD in Zoology from the University of Oxford and has since worked on
-  long-term demographic studies of forest birds in the Cape Horn Biosphere Reserve,
-  survival modeling with the Swiss Ornithological Institute, and shorebird and waterbird
+  I am a quantitative ecologist and researcher working on the population dynamics,
+  survival, and conservation status of birds in Chile and the wider Neotropics. I hold a
+  PhD in Zoology from the University of Oxford and have since worked on long-term
+  demographic studies of forest birds in the Cape Horn Biosphere Reserve, survival
+  modeling with the Swiss Ornithological Institute, and shorebird and waterbird
   monitoring across Chile with the Red de Observadores de Aves y Vida Silvestre de Chile
-  (ROC). His work combines large citizen-science datasets (eBird) with mark-recapture,
+  (ROC). My work combines large citizen-science datasets (eBird) with mark-recapture,
   mixed-effects, and integral projection models in R to produce robust, reproducible
   estimates for conservation decision-making.
 

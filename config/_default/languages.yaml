@@ -10,7 +10,7 @@ en:
   contentDir: content/en
   title: 'Erik Sandvig'
   params:
-    description: "Erik Sandvig - bird conservation analyst working on population
+    description: "Erik Sandvig - quantitative ecologist working on population
       trends and shorebird monitoring in Chile."
   menu:
     main:
@@ -37,7 +37,7 @@ es:
   contentDir: content/es
   title: 'Erik Sandvig'
   params:
-    description: "Erik Sandvig - analista de conservación de aves, especializado en
+    description: "Erik Sandvig - ecólogo cuantitativo, especializado en
       tendencias poblacionales y monitoreo de aves playeras en Chile."
   menu:
     main:

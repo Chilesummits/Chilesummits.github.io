@@ -12,18 +12,18 @@ postnominals:
   - PhD
 status:
   icon: ""
-role: Analista de Conservación de Aves
+role: Ecólogo Cuantitativo
 bio: |
-  Erik Sandvig es un analista de conservación e investigador de aves, dedicado a la
-  dinámica poblacional, la supervivencia y el estado de conservación de las aves de Chile
-  y el Neotrópico. Es Doctor en Zoología por la Universidad de Oxford y desde entonces ha
-  trabajado en estudios demográficos de largo plazo de aves de bosque en la Reserva de la
-  Biosfera Cabo de Hornos, modelamiento de supervivencia con el Instituto Ornitológico
-  Suizo, y monitoreo de aves playeras y acuáticas en todo Chile con la Red de
-  Observadores de Aves y Vida Silvestre de Chile (ROC). Su trabajo combina grandes bases
-  de datos de ciencia ciudadana (eBird) con modelos de marca-recaptura, modelos mixtos y
-  modelos de proyección integral en R para producir estimaciones robustas y reproducibles
-  para la toma de decisiones de conservación.
+  Soy un ecólogo cuantitativo e investigador de aves, dedicado a la dinámica poblacional,
+  la supervivencia y el estado de conservación de las aves de Chile y el Neotrópico. Soy
+  Doctor en Zoología por la Universidad de Oxford y desde entonces he trabajado en
+  estudios demográficos de largo plazo de aves de bosque en la Reserva de la Biosfera
+  Cabo de Hornos, modelamiento de supervivencia con el Instituto Ornitológico Suizo, y
+  monitoreo de aves playeras y acuáticas en todo Chile con la Red de Observadores de
+  Aves y Vida Silvestre de Chile (ROC). Mi trabajo combina grandes bases de datos de
+  ciencia ciudadana (eBird) con modelos de marca-recaptura, modelos mixtos y modelos de
+  proyección integral en R para producir estimaciones robustas y reproducibles para la
+  toma de decisiones de conservación.
 
 affiliations:
   - name: Centro Bahía Lomas, Universidad Santo Tomás

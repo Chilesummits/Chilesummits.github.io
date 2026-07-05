@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Bird conservation analyst"
+    tagline: "Quantitative ecologist"
     # Site meta description for search engines and social sharing
-    description: "Erik Sandvig - bird conservation analyst working on population
+    description: "Erik Sandvig - quantitative ecologist working on population
       trends and shorebird monitoring in Chile."
     # Social accounts (used for meta tags like Twitter Cards)
     social:

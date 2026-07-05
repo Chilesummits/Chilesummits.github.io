@@ -16,7 +16,7 @@ sections:
         text: ''
         url: ''
       headings:
-        about: ''
+        about: 'Biografía'
         education: ''
         interests: ''
     design:
