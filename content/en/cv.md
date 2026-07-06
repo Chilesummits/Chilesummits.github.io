@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'CV'
 date: 2023-10-24
 type: landing
 
@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: me
   - block: resume-awards
     content:
