@@ -49,20 +49,25 @@ experience:
     org: Centro Bahía Lomas, Universidad Santo Tomás, Chile
     start: 2023-01-01
     summary: |
-      Investigación en dinámicas poblacionales y ecología espacial de aves en
-      Magallanes. Docente del programa de Doctorado en Conservación y Gestión de la
-      Biodiversidad, con guiado de tesistas y docencia en asignaturas del doctorado.
-  - role: Coordinador del Programa de Monitoreo de Aves
+      Lidero investigación en dinámica poblacional, demografía y ecología espacial de
+      aves en la Región de Magallanes y la Patagonia chilena. Docente del programa de
+      Doctorado en Conservación y Gestión de la Biodiversidad, con guiado de tesistas y
+      docencia en asignaturas del doctorado. Representante institucional ante el Plan de
+      Acción Nacional para la Conservación de Aves Playeras y la Estrategia Nacional de
+      Conservación de Aves.
+  - role: Investigador Principal
     org: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
     start: 2019-01-01
     summary: |
-      Diseño del Plan General de Monitoreo de Aves de Chile (licitado por el Ministerio
-      del Medio Ambiente) y liderazgo del monitoreo de largo plazo de aves acuáticas en
-      la Laguna Batuco, censos de Piuquenes en Lampa-Quilicura y monitoreo del Pilpilén
-      común en la desembocadura del río Maipo. Lidera los esfuerzos de anillamiento de
-      la ROC y participa como revisor de datos de eBird a nivel nacional.
+      Diseño y coordinación de monitoreo de aves a escala nacional, incluyendo el plan de
+      monitoreo de largo plazo de aves acuáticas en la Laguna Batuco, censos de invernada
+      de Piuquén en Lampa-Quilicura y el plan de monitoreo del Pilpilén común en la
+      desembocadura del río Maipo. Parte del equipo que entregó el "Diseño de un Plan
+      General de Monitoreo de Aves de Chile", encargado por el Ministerio del Medio
+      Ambiente. Co-lidera el programa de anillamiento de la ROC y la formación de nuevos
+      anilladores.
   - role: Investigador Postdoctoral
-    org: Centro Internacional Cabo de Hornos (CHIC), Chile — laboratorio de Dr. Rodrigo Vásquez
+    org: Centro Internacional Cabo de Hornos (CHIC), Chile — laboratorio del Prof. Rodrigo Vásquez
     start: 2022-01-01
     end: 2022-12-31
     summary: |
@@ -73,19 +78,19 @@ experience:
     start: 2021-01-01
     end: 2022-06-30
     summary: |
-      Beca de 6 meses con Marc Kéry y Michael Schaub. Especialización en métodos
-      Bayesianos para estimar tasas de supervivencia a nivel específico y comunitario, y
-      desarrollo de modelos Dail-Madsen para estimar la abundancia temporal del Canquén
-      Colorado usando censos anuales de dos décadas en Magallanes.
+      Beca de 6 meses con el Dr. Marc Kéry y el Dr. Michael Schaub. Estimación Bayesiana
+      de supervivencia a nivel específico y comunitario a partir de la base de datos de
+      marca-recaptura de Omora, y modelos de espacio de estados para estimar dos décadas
+      de cambio en la abundancia del Canquén Colorado en Magallanes.
   - role: Investigador Postdoctoral
-    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — laboratorio de Dr. Rodrigo Vásquez
+    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — laboratorio del Prof. Rodrigo Vásquez
     start: 2020-01-01
     end: 2022-12-31
     summary: |
-      Investigación de la variación temporal en parámetros demográficos y fenológicos de
-      aves de bosque usando una base de datos de anillamiento de 20 años del Parque
-      Etnobotánico Omora, Isla Navarino.
-  - role: Investigador Doctoral
+      Variación temporal en parámetros demográficos y fenológicos de aves de bosque
+      usando una base de datos de anillamiento de 20 años del Parque Etnobotánico Omora,
+      Isla Navarino.
+  - role: Investigador Doctoral (DPhil)
     org: Departamento de Zoología, University of Oxford
     start: 2014-01-01
     end: 2018-12-31
@@ -93,26 +98,26 @@ experience:
       Análisis de supervivencia con marca-recaptura, meta-análisis filogenético del
       efecto insular sobre el crecimiento de aves, monitoreo de nidos y modelamiento de
       proyección integral de una población insular de aves (*Zosterops lateralis*) en
-      Queensland, Australia.
+      Queensland, Australia. Supervisado por el Prof. Tim Coulson y la Prof. Sonya Clegg.
 
 skills:
-  - name: Habilidades de Investigación
+  - name: Cuantitativas
     items:
-      - label: R (más de 10 años; modelamiento demográfico e historia de vida)
+      - label: R (más de 10 años; modelamiento demográfico e historia de vida) y JAGS
         level: 5
-      - label: Modelos poblacionales y de proyección integral
+      - label: Modelos de marca-recaptura, espacio de estados y proyección integral
         level: 5
-      - label: Análisis de supervivencia con marca-recaptura
-        level: 5
+      - label: Ecología del movimiento (GPS/satelital, estimación de home-range, riesgo de colisión)
+        level: 4
       - label: Modelos de ocupación y meta-análisis filogenético
         level: 4
       - label: Identificación, captura y anillamiento de aves (17+ años, 1000+ aves anilladas)
         level: 5
   - name: Trabajo de Campo
     items:
-      - label: Censos estandarizados de avifauna
+      - label: Censos estandarizados de avifauna (aéreos y terrestres)
         level: 5
-      - label: Instalación de dispositivos de seguimiento satelital
+      - label: Instalación de dispositivos de seguimiento satelital y GPS
         level: 4
       - label: Búsqueda de nidos y mediciones morfológicas
         level: 5
@@ -125,11 +130,11 @@ awards:
   - title: Beca de Equipamiento
     awarder: IdeaWild
     date: "2025-01-01"
-    summary: "US$750 para equipamiento de monitoreo acústico de la especie *Porzana jamaicensis*."
+    summary: "US$750 para equipamiento de monitoreo acústico de la especie *Laterallus jamaicensis*."
   - title: Subvención a la Instalación en la Academia (SIA)
     awarder: ANID
     date: "2023-01-01"
-    summary: "Financiamiento por tres años como investigador de inserción en el Centro Bahía Lomas, Universidad Santo Tomás."
+    summary: "≈US$220.000 (CLP $202.000.000), programa de investigación de tres años como investigador de inserción en el Centro Bahía Lomas, Universidad Santo Tomás."
   - title: Beca de Investigación
     awarder: The Nyika Vwaza Trust, Malawi
     date: "2022-01-01"
@@ -143,10 +148,10 @@ awards:
     date: "2021-01-01"
     summary: "CHF 1.800 para una estadía de investigación de 6 meses en el instituto."
   - title: Beca de Viaje
-    awarder: St Peter's College, Oxford
+    awarder: St Peter's College, University of Oxford
     date: "2015-01-01"
-    summary: "£800 para pasajes y trabajo de campo en Australia."
+    summary: "£800 para trabajo de campo en Australia."
   - title: Beca Doctoral BecasChile
-    awarder: CONICYT, Programa de Capital Humano Avanzado
+    awarder: Programa de Capital Humano Avanzado, CONICYT/ANID
     date: "2014-01-01"
-    summary: "Beca completa para estudios de doctorado en el extranjero."
+    summary: "Financiamiento completo para estudios de doctorado en el extranjero."

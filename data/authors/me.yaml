@@ -44,73 +44,76 @@ links:
     url: https://orcid.org/0000-0002-4180-000X
 
 experience:
-  - role: Profesor Asociado
+  - role: Associate Professor
     org: Centro Bahía Lomas, Universidad Santo Tomás, Chile
     start: 2023-01-01
     summary: |
-      Research on population dynamics and spatial ecology of birds in Magallanes.
-      Faculty member of the Doctorado en Conservación y Gestión de la Biodiversidad,
-      supervising thesis students and teaching doctoral courses.
-  - role: Coordinador del Programa de Monitoreo de Aves
+      Lead research on the population dynamics, demography, and spatial ecology of birds
+      in the Magallanes Region and Chilean Patagonia. Faculty member of the PhD programme
+      in Biodiversity Conservation and Management, supervising theses and teaching
+      doctoral courses. University representative for the National Shorebird
+      Conservation Action Plan and National Bird Conservation Strategy.
+  - role: Principal Investigator
     org: Red de Observadores de Aves y Vida Silvestre de Chile (ROC)
     start: 2019-01-01
     summary: |
-      Designed Chile's national bird monitoring plan (commissioned by the Ministry of
-      the Environment) and led long-term waterbird monitoring at Laguna Batuco, Andean
-      Goose censuses in Lampa-Quilicura, and American Oystercatcher monitoring at the
-      Maipo river mouth. Leads ROC's bird banding efforts and reviews eBird records
-      nationally.
+      Design and coordination of national-scale bird monitoring, including the long-term
+      waterbird monitoring plan at Laguna Batuco, wintering censuses of Andean Goose in
+      Lampa-Quilicura, and the American Oystercatcher monitoring plan at the Maipo River
+      mouth. Delivered Chile's national bird monitoring plan design, commissioned by the
+      Ministry of the Environment. Co-leads the ROC bird banding programme and trains new
+      banders.
   - role: Postdoctoral Researcher
-    org: Centro Internacional Cabo de Hornos (CHIC), Chile — Dr. Rodrigo Vásquez lab
+    org: Centro Internacional Cabo de Hornos (CHIC), Chile — Prof. Rodrigo Vásquez lab
     start: 2022-01-01
     end: 2022-12-31
     summary: |
-      Population dynamics and ecology of Patagonian forest birds using the
-      Omora Ethnobotanical Park mark-recapture database, Navarino Island.
+      Population dynamics and ecology of Patagonian forest birds using the long-term
+      mark-recapture dataset of Omora Ethnobotanical Park, Navarino Island.
   - role: Postdoctoral Fellow
     org: Swiss Ornithological Institute — Vogelwarte
     start: 2021-01-01
     end: 2022-06-30
     summary: |
-      6-month fellowship with Marc Kéry and Michael Schaub. Specialized in Bayesian
-      methods for species- and community-level survival estimation, and developed
-      Dail-Madsen models to estimate temporal abundance of the Ruddy-headed Goose
-      from two decades of annual censuses in Magallanes.
+      6-month fellowship with Dr Marc Kéry and Dr Michael Schaub. Bayesian estimation of
+      species- and community-level survival from the Omora mark-recapture dataset, and
+      state-space models estimating two decades of abundance change in the Ruddy-headed
+      Goose in Magallanes.
   - role: Postdoctoral Researcher
-    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — Dr. Rodrigo Vásquez lab
+    org: Instituto de Ecología y Biodiversidad (IEB), Universidad de Chile — Prof. Rodrigo Vásquez lab
     start: 2020-01-01
     end: 2022-12-31
     summary: |
-      Investigated temporal variation in demographic and phenological parameters of
-      forest birds using a 20-year banding dataset from the Omora Ethnobotanical Park,
-      Navarino Island.
-  - role: PhD Researcher
+      Temporal variation in the demographic and phenological parameters of forest birds
+      using a 20-year banding dataset from the Omora Ethnobotanical Park, Navarino Island.
+  - role: DPhil (PhD) Researcher
     org: Department of Zoology, University of Oxford
     start: 2014-01-01
     end: 2018-12-31
     summary: |
       Mark-recapture survival analysis, phylogenetic meta-analysis of insularity effects
       on avian growth, nest monitoring, and integral projection modeling of an insular
-      bird population (*Zosterops lateralis*) in Queensland, Australia.
+      bird population (*Zosterops lateralis*) in Queensland, Australia. Supervised by
+      Prof. Tim Coulson and Prof. Sonya Clegg.
 
 skills:
-  - name: Research Skills
+  - name: Quantitative
     items:
-      - label: R (10+ years; demographic & life-history modeling)
+      - label: R (10+ years; demographic & life-history modeling) & JAGS
         level: 5
-      - label: Population & integral projection models
+      - label: Mark-recapture, state-space & integral projection models
         level: 5
-      - label: Mark-recapture survival analysis
-        level: 5
+      - label: Movement ecology (GPS/satellite tracking, home-range estimation, collision-risk modelling)
+        level: 4
       - label: Occupancy models & phylogenetic meta-analysis
         level: 4
       - label: Bird identification, capture & banding (17+ years, 1000+ birds banded)
         level: 5
-  - name: Fieldwork
+  - name: Field
     items:
-      - label: Standardized avifauna censuses
+      - label: Standardized avifauna censuses (aerial & ground)
         level: 5
-      - label: Satellite tracking deployment
+      - label: Satellite & GPS tracking deployment
         level: 4
       - label: Nest searching & morphological measurements
         level: 5
@@ -123,11 +126,11 @@ awards:
   - title: Equipment Grant
     awarder: IdeaWild
     date: "2025-01-01"
-    summary: "US$750 for acoustic monitoring equipment for the Black Rail (*Porzana jamaicensis*)."
+    summary: "US$750 for acoustic monitoring equipment for the Black Rail (*Laterallus jamaicensis*)."
   - title: Subvención a la Instalación en la Academia (SIA)
     awarder: ANID
     date: "2023-01-01"
-    summary: "Three-year research funding as an incoming researcher at Centro Bahía Lomas, Universidad Santo Tomás."
+    summary: "≈US$220,000 (CLP $202,000,000) three-year research programme as an incoming researcher at Centro Bahía Lomas, Universidad Santo Tomás."
   - title: Research Grant
     awarder: The Nyika Vwaza Trust, Malawi
     date: "2022-01-01"
@@ -141,10 +144,10 @@ awards:
     date: "2021-01-01"
     summary: "CHF 1,800 supporting a 6-month research stay at the institute."
   - title: Travel Grant
-    awarder: St Peter's College, Oxford
+    awarder: St Peter's College, University of Oxford
     date: "2015-01-01"
-    summary: "£800 for travel and fieldwork in Australia."
+    summary: "£800 for fieldwork travel in Australia."
   - title: BecasChile Doctoral Scholarship
-    awarder: CONICYT, Programa de Capital Humano Avanzado
+    awarder: Advanced Human Capital Programme, CONICYT/ANID
     date: "2014-01-01"
-    summary: "Full scholarship for doctoral studies abroad."
+    summary: "Full funding for doctoral studies abroad."

@@ -56,28 +56,67 @@ sections:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
-      title: 'Current Projects'
+      title: 'Research'
       subtitle: ''
-      text: |-
-        **State of Chile's Birds** — a national state-of-the-birds report built from eBird Status & Trends data and AVONET trait data, summarizing population trends and conservation status across Chilean avifauna.
-
-        **CCAP Chile Shorebirds** — population estimates for Chilean shorebirds in collaboration with Manomet, replicating and extending prior (Faria et al.) methodology with improved glmmTMB-based models.
+      text: 'How individual movement decisions scale up to population dynamics in migratory birds — and what that means for conservation.'
     design:
       columns: '1'
       spacing:
-        padding: ['1rem', '0', '2rem', '0']
-  - block: collection
-    id: papers
+        padding: ['1rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
     content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      items:
+        - image: 'research/movement-ecology.svg'
+          title: 'Movement Ecology'
+          text: >-
+            Using GPS and satellite telemetry, I study how birds move through Patagonian
+            landscapes — from probabilistic flight-altitude models assessing wind-turbine
+            collision risk in the Two-banded Plover to migration strategies of high-latitude
+            shorebirds and passerines.
     design:
-      view: citation
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/population-dynamics.svg'
+          title: 'Population Dynamics'
+          text: >-
+            My core research uses mark-recapture, integral projection, and state-space models
+            to estimate survival, growth, and abundance — from two decades of banding data on
+            Patagonian forest birds to Bayesian abundance models for the Ruddy-headed Goose in
+            Magallanes.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/conservation.svg'
+          title: 'Conservation'
+          text: >-
+            I translate population data into conservation action: coordinating Chile's national
+            bird monitoring plan with the Red de Observadores de Aves y Vida Silvestre de Chile
+            (ROC), leading the *State of Chile's Birds* report, and running the *CCAP Chile
+            Shorebirds* population assessment with Manomet at Bahía Lomas.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/evolutionary-ecology.svg'
+          title: 'Evolutionary Ecology'
+          text: >-
+            My doctoral research examined how insularity shapes avian growth and body-size
+            evolution in an island Silvereye population, combining phylogenetic meta-analysis
+            with individual-based growth models to test predictions about life-history
+            evolution on islands.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '2rem', '0']
   - block: collection
     id: news
     content:

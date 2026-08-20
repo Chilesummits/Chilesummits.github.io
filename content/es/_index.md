@@ -56,28 +56,67 @@ sections:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
-      title: 'Proyectos Actuales'
+      title: 'Investigación'
       subtitle: ''
-      text: |-
-        **Estado de las Aves de Chile** — un informe nacional sobre el estado de las aves, construido a partir de datos de eBird Status & Trends y de rasgos de AVONET, que resume las tendencias poblacionales y el estado de conservación de la avifauna chilena.
-
-        **Aves Playeras CCAP Chile** — estimaciones poblacionales de aves playeras chilenas en colaboración con Manomet, replicando y extendiendo la metodología previa (Faria et al.) con modelos mejorados basados en glmmTMB.
+      text: 'Cómo las decisiones individuales de movimiento se traducen en dinámica poblacional en aves migratorias — y lo que eso significa para la conservación.'
     design:
       columns: '1'
       spacing:
-        padding: ['1rem', '0', '2rem', '0']
-  - block: collection
-    id: papers
+        padding: ['1rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
     content:
-      title: Publicaciones
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      items:
+        - image: 'research/movement-ecology.svg'
+          title: 'Ecología del Movimiento'
+          text: >-
+            Mediante telemetría GPS y satelital, estudio cómo las aves se desplazan por los
+            paisajes patagónicos — desde modelos probabilísticos de altitud de vuelo para
+            evaluar el riesgo de colisión con aerogeneradores en el Chorlo de Doble Collar,
+            hasta estrategias migratorias de aves playeras y paseriformes de alta latitud.
     design:
-      view: citation
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/population-dynamics.svg'
+          title: 'Dinámica Poblacional'
+          text: >-
+            El eje de mi investigación usa modelos de marca-recaptura, de proyección integral
+            y de espacio de estados para estimar supervivencia, crecimiento y abundancia —
+            desde dos décadas de datos de anillamiento de aves de bosque patagónicas hasta
+            modelos bayesianos de abundancia para el Canquén Colorado en Magallanes.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/conservation.svg'
+          title: 'Conservación'
+          text: >-
+            Traduzco los datos poblacionales en acción de conservación: coordinando el plan
+            nacional de monitoreo de aves con la Red de Observadores de Aves y Vida Silvestre
+            de Chile (ROC), liderando el informe *Estado de las Aves de Chile* y ejecutando la
+            evaluación poblacional *Aves Playeras CCAP Chile* con Manomet en Bahía Lomas.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '0.5rem', '0']
+  - block: cta-image-paragraph
+    content:
+      items:
+        - image: 'research/evolutionary-ecology.svg'
+          title: 'Ecología Evolutiva'
+          text: >-
+            Mi investigación doctoral examinó cómo la insularidad moldea el crecimiento y la
+            evolución del tamaño corporal en una población insular de Zosterops, combinando
+            meta-análisis filogenético con modelos de crecimiento individual para poner a
+            prueba predicciones sobre la evolución de la historia de vida en islas.
+    design:
+      spacing:
+        padding: ['0.5rem', '0', '2rem', '0']
   - block: collection
     id: news
     content:

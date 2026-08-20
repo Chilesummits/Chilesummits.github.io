@@ -17,14 +17,14 @@ en:
       - name: Bio
         url: /
         weight: 10
-      - name: Projects
-        url: projects/
+      - name: Research
+        url: /#research
         weight: 20
       - name: News
         url: /#news
         weight: 30
       - name: Publications
-        url: /#papers
+        url: publications/
         weight: 40
       - name: CV
         url: cv/
@@ -44,14 +44,14 @@ es:
       - name: Biografía
         url: /
         weight: 10
-      - name: Proyectos
-        url: projects/
+      - name: Investigación
+        url: /#research
         weight: 20
       - name: Noticias
         url: /#news
         weight: 30
       - name: Publicaciones
-        url: /#papers
+        url: publications/
         weight: 40
       - name: CV
         url: cv/

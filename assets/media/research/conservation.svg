@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eaf1fb"/>
+  <path d="M400 160c60 20 100 30 140 30v110c0 90-60 150-140 180-80-30-140-90-140-180V190c40 0 80-10 140-30Z"
+    fill="none" stroke="#1d4ed8" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M340 350c10-40 40-70 80-80-6 40-30 70-80 80Z" fill="#2563eb" opacity="0.85"/>
+  <path d="M460 350c-10-40-40-70-80-80 6 40 30 70 80 80Z" fill="#8fb4e0" opacity="0.85"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#7a93b8" letter-spacing="0.5">Conservation — add photo</text>
+</svg>
